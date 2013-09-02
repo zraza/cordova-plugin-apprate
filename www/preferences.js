@@ -5,7 +5,7 @@ AppRatePreferences = {
   useLanguage: "en",
   promptAtLaunch: false,
   promptAgainForEachNewVersion: true,
-  daysUntilPrompt: 1,
+  daysUntilPrompt: 0,
   usesUntilPrompt: 3,
   appStoreID: {
     ios: "123456789",
